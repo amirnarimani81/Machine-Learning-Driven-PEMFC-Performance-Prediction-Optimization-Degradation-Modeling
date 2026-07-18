@@ -7,7 +7,7 @@ Data-Centric Regression Framework for Predicting Maximum Power Density (MPD) in 
 </h3>
 
 <p align="center">
-  <img src="Plot/1.png" width="850" alt="PEMFC degradation prediction results">
+  <img src="Plot/1.png" width="850">
 </p>
 
 ## Overview
