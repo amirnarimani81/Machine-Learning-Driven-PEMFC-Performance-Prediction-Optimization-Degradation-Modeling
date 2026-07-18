@@ -49,9 +49,9 @@ This repository presents my work on three major projects for PEMFC development:
 
 **1. Understanding MEA behavior through experimental electrochemical data analysis**
 
-**2. Predicting and optimizing fuel cell performance using Machine learning-driven models**
+**2. Predicting and optimizing fuel cell performance using Machine learning models**
 
-**3. Modeling degradation behavior and estimating fuel cell lifetime using Deep leaning, time series (ARIMAM, SARIMA, GRU,,+ RNN, LSTM)**
+**3. Modeling degradation behavior and estimating fuel cell lifetime using Deep leaning, time series (ARIMA, SARIMA, GRU,,+ RNN, LSTM)**
 
 
 The projects represent different stages of PEMFC engineering development, from laboratory characterization 
