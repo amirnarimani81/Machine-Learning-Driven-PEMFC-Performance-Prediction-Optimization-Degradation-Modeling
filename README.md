@@ -44,7 +44,7 @@ However, improving PEMFC performance and durability requires a deep understandin
 - Long-term degradation mechanisms
 
 
-This repository presents my work on three major aspects/projects for PEMFC development:
+This repository presents my work on three major projects for PEMFC development:
 
 
 **1. Understanding MEA behavior through experimental electrochemical data analysis**
@@ -136,14 +136,22 @@ Loads the experimental dataset, filters measurements by voltage and pressure,
 and automatically generates a comparative Nyquist (EIS) plot.
 </p>
 
-<img src="Plot/pemfc_project_overview.gif" width="850">
-<img src="Plot/pemfc_project_overview.gif" width="850">
+<p align="center">
+  <img src="Plot/6.png" width="850">
+</p>
+
+<p align="center">
+  <img src="Plot/7.png" width="850" >
+</p>
 
 
 # Project 2  
 # Ensemble Machine Learning-Based PEM Fuel Cell Performance Prediction & MEA Optimization
 
-<img src="Plot/pemfc_project_overview.gif" width="850">
+<p align="center">
+  <img src="Plot/1.png" width="850" >
+</p>
+
 
 ## Objective
 
@@ -213,6 +221,9 @@ Best-performing model:
 The model identified important factors controlling PEMFC performance and demonstrated how data-driven 
 approaches can reduce experimental trial-and-error during MEA development.
 
+<p align="center">
+  <img src="Plot/2.png" width="850" >
+</p>
 
 <hr>
 
@@ -220,7 +231,10 @@ approaches can reduce experimental trial-and-error during MEA development.
 # Project 3  
 # Deep Learning Models for PEMFC Degradation Prediction & Remaining Useful Life (RUL) Estimation
 
-<img src="Plot/pemfc_project_overview.gif" width="850">
+<p align="center">
+  <img src="Plot/5.png" width="850" >
+</p>
+
 ## Objective
 
 The objective of this project was to analyze PEMFC aging behavior and predict future degradation trends 
