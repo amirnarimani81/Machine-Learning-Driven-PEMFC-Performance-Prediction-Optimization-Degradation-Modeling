@@ -25,6 +25,9 @@ and machine learning approaches.
 <img src="Plot/pemfc_project_overview.gif" width="850">
 </p>
 
+<p align="center">
+  <img src="Plot/4.png" width="850" alt="PEMFC Performance Prediction Results">
+</p>
 
 <hr>
 
