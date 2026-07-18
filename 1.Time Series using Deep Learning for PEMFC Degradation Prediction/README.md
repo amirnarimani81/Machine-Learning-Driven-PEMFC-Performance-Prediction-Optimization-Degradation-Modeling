@@ -245,6 +245,7 @@ Click the image above to watch the PEMFC degradation prediction and RUL estimati
 <p><strong>Insight:</strong> GRU demonstrates the best performance, while LSTM provides strong robustness. Vanilla RNN shows poor long-term dependency learning.</p>
 
  <hr />
+ 
 <p align="center">
 <img src="Plot/5.png" width="800">
 </p>
