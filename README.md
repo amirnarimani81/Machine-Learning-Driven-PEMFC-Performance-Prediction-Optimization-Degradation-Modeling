@@ -213,7 +213,7 @@ Best-performing model:
 | Metric | Result |
 |---|---|
 | R² Score | 0.9852 |
-| RMSE | 48.24 mW/cm² |
+| RMSE | 0.4824  |
 
 
 ## Contribution
@@ -278,8 +278,8 @@ Developed and compared:
 
 | Model | MAE | RMSE |
 |---|---|---|
-| GRU | 0.015 | - |
-| LSTM | 0.025 | 1.26×10⁻³ |
+| GRU | 0.015 | 0.25 |
+| LSTM | 0.025 | 0.18 |
 | RNN | 0.045 | - |
 
 
