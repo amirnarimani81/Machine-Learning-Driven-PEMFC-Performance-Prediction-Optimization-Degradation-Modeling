@@ -158,7 +158,7 @@ Click the image above to watch the PEMFC degradation prediction and RUL estimati
 <hr />
 
 <p align="center">
-  <img src="../Time-Series--Deep-Learning-PEMFC-Performance-Prediction-Optimization-Degradation-Modeling/Plot/1.png" width="850">
+  <img src="Time-Series--Deep-Learning-PEMFC-Performance-Prediction-Optimization-Degradation-Modeling/Plot/1.png" width="850">
 </p>
 
   
