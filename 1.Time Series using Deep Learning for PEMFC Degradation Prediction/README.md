@@ -232,7 +232,7 @@ Click the image above to watch the PEMFC degradation prediction and RUL estimati
         <tr>
           <td><strong>LSTM</strong></td>
           <td>0.025</td>
-          <td><strong>1.26×10⁻³</strong></td>
+          <td><strong>0.18</strong></td>
         </tr>
         <tr>
           <td><strong>RNN</strong></td>
