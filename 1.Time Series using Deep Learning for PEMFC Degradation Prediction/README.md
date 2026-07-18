@@ -247,7 +247,7 @@ Click the image above to watch the PEMFC degradation prediction and RUL estimati
  <hr />
  
 <p align="center">
-<img src="Plot/5.png" width="800">
+<img src=Plot/5.png" width="800">
 </p>
 
  <h2> RUL Estimation Results</h2>
